@@ -23,13 +23,13 @@ let package = Package(
         ),
         .binaryTarget(
             name: "AdiscopeMediaTnkPub",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.2.0/AdiscopeMediaTnkPub.zip",
-            checksum: "63bdb060d1aa7c4d17aab5241ada6394ee9ecb925cc94c6fac00742483e5d374"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.6.0/AdiscopeMediaTnkPub.zip",
+            checksum: "1973b6c15313cf759430726d8dd7ba36851858716e67753bad7c898323d730c8"
         ),
         .binaryTarget(
             name: "TnkPubSdk",
-            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.2.0/TnkPubSdk.xcframework.zip",
-            checksum: "d96cccf26eff04f2b3df845124638f3facf7703b298abaac586a4ff636a5040c"
+            url: "https://github.com/adiscope/Adiscope-iOS-Sample/releases/download/5.6.0/TnkPubSdk.xcframework.zip",
+            checksum: "8a3325b8dd1a782dedf84175a52f19858a2ba78ab963d266e100a1c0405f676b"
         ),
     ]
 )
